@@ -2,20 +2,6 @@ package org.andengine.extension.scripting.engine.camera.hud;
 
 import org.andengine.engine.camera.hud.HUD;
 
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntityMatcher;
-import org.andengine.entity.IEntityMatcher;
-
-import org.andengine.util.color.Color;
-import org.andengine.util.color.Color;
-
 
 public class HUDProxy extends HUD {
     private final long mAddress;

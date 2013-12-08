@@ -1,32 +1,14 @@
 package org.andengine.extension.scripting.opengl.texture.bitmap;
 
-import android.content.res.AssetManager;
-import android.content.res.AssetManager;
-import android.content.res.AssetManager;
-import android.content.res.AssetManager;
-import android.content.res.AssetManager;
+import java.io.IOException;
 
 import org.andengine.opengl.texture.ITextureStateListener;
 import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureOptions;
-import org.andengine.opengl.texture.TextureOptions;
 import org.andengine.opengl.texture.TextureOptions;
 import org.andengine.opengl.texture.bitmap.AssetBitmapTexture;
 import org.andengine.opengl.texture.bitmap.BitmapTextureFormat;
-import org.andengine.opengl.texture.bitmap.BitmapTextureFormat;
-import org.andengine.opengl.texture.bitmap.BitmapTextureFormat;
-import org.andengine.opengl.util.GLState;
-import org.andengine.opengl.util.GLState;
 
-import java.io.IOException;
-import java.io.IOException;
-import java.io.IOException;
-import java.io.IOException;
-import java.io.IOException;
+import android.content.res.AssetManager;
 
 
 public class AssetBitmapTextureProxy extends AssetBitmapTexture {

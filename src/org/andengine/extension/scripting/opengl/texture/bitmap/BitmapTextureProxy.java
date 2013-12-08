@@ -1,32 +1,13 @@
 package org.andengine.extension.scripting.opengl.texture.bitmap;
 
+import java.io.IOException;
+
 import org.andengine.opengl.texture.ITextureStateListener;
 import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureManager;
-import org.andengine.opengl.texture.TextureOptions;
-import org.andengine.opengl.texture.TextureOptions;
 import org.andengine.opengl.texture.TextureOptions;
 import org.andengine.opengl.texture.bitmap.BitmapTexture;
 import org.andengine.opengl.texture.bitmap.BitmapTextureFormat;
-import org.andengine.opengl.texture.bitmap.BitmapTextureFormat;
-import org.andengine.opengl.texture.bitmap.BitmapTextureFormat;
-import org.andengine.opengl.util.GLState;
-import org.andengine.opengl.util.GLState;
-
 import org.andengine.util.adt.io.in.IInputStreamOpener;
-import org.andengine.util.adt.io.in.IInputStreamOpener;
-import org.andengine.util.adt.io.in.IInputStreamOpener;
-import org.andengine.util.adt.io.in.IInputStreamOpener;
-import org.andengine.util.adt.io.in.IInputStreamOpener;
-
-import java.io.IOException;
-import java.io.IOException;
-import java.io.IOException;
-import java.io.IOException;
-import java.io.IOException;
 
 
 public class BitmapTextureProxy extends BitmapTexture {

@@ -1,57 +1,12 @@
 package org.andengine.extension.scripting.entity.sprite;
 
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntityMatcher;
-import org.andengine.entity.IEntityMatcher;
 import org.andengine.entity.sprite.Sprite;
 import org.andengine.entity.sprite.vbo.ISpriteVertexBufferObject;
-import org.andengine.entity.sprite.vbo.ISpriteVertexBufferObject;
-import org.andengine.entity.sprite.vbo.ISpriteVertexBufferObject;
-import org.andengine.entity.sprite.vbo.ISpriteVertexBufferObject;
-
 import org.andengine.input.touch.TouchEvent;
-
 import org.andengine.opengl.shader.ShaderProgram;
-import org.andengine.opengl.shader.ShaderProgram;
-import org.andengine.opengl.shader.ShaderProgram;
-import org.andengine.opengl.shader.ShaderProgram;
-import org.andengine.opengl.shader.ShaderProgram;
-import org.andengine.opengl.shader.ShaderProgram;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
-import org.andengine.opengl.texture.region.ITextureRegion;
 import org.andengine.opengl.texture.region.ITextureRegion;
 import org.andengine.opengl.vbo.DrawType;
-import org.andengine.opengl.vbo.DrawType;
-import org.andengine.opengl.vbo.DrawType;
-import org.andengine.opengl.vbo.DrawType;
 import org.andengine.opengl.vbo.VertexBufferObjectManager;
-import org.andengine.opengl.vbo.VertexBufferObjectManager;
-import org.andengine.opengl.vbo.VertexBufferObjectManager;
-import org.andengine.opengl.vbo.VertexBufferObjectManager;
-import org.andengine.opengl.vbo.VertexBufferObjectManager;
-import org.andengine.opengl.vbo.VertexBufferObjectManager;
-import org.andengine.opengl.vbo.VertexBufferObjectManager;
-import org.andengine.opengl.vbo.VertexBufferObjectManager;
-import org.andengine.opengl.vbo.VertexBufferObjectManager;
-
-import org.andengine.util.color.Color;
-import org.andengine.util.color.Color;
 
 
 public class SpriteProxy extends Sprite {

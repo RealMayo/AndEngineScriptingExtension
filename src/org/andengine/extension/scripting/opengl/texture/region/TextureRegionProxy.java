@@ -1,9 +1,6 @@
 package org.andengine.extension.scripting.opengl.texture.region;
 
 import org.andengine.opengl.texture.ITexture;
-import org.andengine.opengl.texture.ITexture;
-import org.andengine.opengl.texture.ITexture;
-import org.andengine.opengl.texture.ITexture;
 import org.andengine.opengl.texture.region.TextureRegion;
 
 
