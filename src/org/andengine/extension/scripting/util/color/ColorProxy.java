@@ -1,7 +1,6 @@
 package org.andengine.extension.scripting.util.color;
 
 import org.andengine.util.color.Color;
-import org.andengine.util.color.Color;
 
 
 public class ColorProxy extends Color {

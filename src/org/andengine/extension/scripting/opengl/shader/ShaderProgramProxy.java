@@ -2,7 +2,6 @@ package org.andengine.extension.scripting.opengl.shader;
 
 import org.andengine.opengl.shader.ShaderProgram;
 import org.andengine.opengl.shader.source.IShaderSource;
-import org.andengine.opengl.shader.source.IShaderSource;
 
 
 public class ShaderProgramProxy extends ShaderProgram {

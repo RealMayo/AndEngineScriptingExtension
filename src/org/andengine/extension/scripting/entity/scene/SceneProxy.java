@@ -1,19 +1,6 @@
 package org.andengine.extension.scripting.entity.scene;
 
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntity;
-import org.andengine.entity.IEntityMatcher;
-import org.andengine.entity.IEntityMatcher;
 import org.andengine.entity.scene.Scene;
-
-import org.andengine.util.color.Color;
-import org.andengine.util.color.Color;
 
 
 public class SceneProxy extends Scene {
